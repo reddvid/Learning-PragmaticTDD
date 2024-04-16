@@ -1,4 +1,5 @@
 using Microsoft.Extensions.Logging.Abstractions;
+using NSubstitute;
 using Red.OpenWeather;
 using Uqs.Weather.Controllers;
 
