@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uqs.AppointmentBooking.Website", "Uqs.AppointmentBooking.Website\Uqs.AppointmentBooking.Website.csproj", "{F542310F-A45A-47E2-AA23-06F18473C432}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uqs.AppointmentBooking.WebApi", "Uqs.AppointmentBooking.WebApi\Uqs.AppointmentBooking.WebApi.csproj", "{852F8345-C23F-4EDD-9F4C-851301642905}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uqs.AppointmentBooking.Contract", "Uqs.AppointmentBooking.Contract\Uqs.AppointmentBooking.Contract.csproj", "{D9410358-202C-4027-9BA0-8C356232D9D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uqs.AppointmentBooking.Domain", "Uqs.AppointmentBooking.Domain\Uqs.AppointmentBooking.Domain.csproj", "{0B25A46E-0F5F-4C67-9245-90D731EF3E09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uqs.AppointmentBooking.Domain.Tests.Unit", "Uqs.AppointmentBooking.Domain.Tests.Unit\Uqs.AppointmentBooking.Domain.Tests.Unit.csproj", "{86A59A8F-C021-4A68-B379-B8DF0ABA10A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F542310F-A45A-47E2-AA23-06F18473C432}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F542310F-A45A-47E2-AA23-06F18473C432}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F542310F-A45A-47E2-AA23-06F18473C432}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F542310F-A45A-47E2-AA23-06F18473C432}.Release|Any CPU.Build.0 = Release|Any CPU
+		{852F8345-C23F-4EDD-9F4C-851301642905}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{852F8345-C23F-4EDD-9F4C-851301642905}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{852F8345-C23F-4EDD-9F4C-851301642905}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{852F8345-C23F-4EDD-9F4C-851301642905}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9410358-202C-4027-9BA0-8C356232D9D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9410358-202C-4027-9BA0-8C356232D9D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9410358-202C-4027-9BA0-8C356232D9D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9410358-202C-4027-9BA0-8C356232D9D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B25A46E-0F5F-4C67-9245-90D731EF3E09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B25A46E-0F5F-4C67-9245-90D731EF3E09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B25A46E-0F5F-4C67-9245-90D731EF3E09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B25A46E-0F5F-4C67-9245-90D731EF3E09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86A59A8F-C021-4A68-B379-B8DF0ABA10A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86A59A8F-C021-4A68-B379-B8DF0ABA10A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86A59A8F-C021-4A68-B379-B8DF0ABA10A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86A59A8F-C021-4A68-B379-B8DF0ABA10A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

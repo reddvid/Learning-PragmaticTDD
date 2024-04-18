@@ -1,0 +1,6 @@
+@Uqs.AppointmentBooking.WebApi_HostAddress = http://localhost:5237
+
+GET {{Uqs.AppointmentBooking.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
